@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>陈学冬</string>
+		<key>name</key>
+		<string>陈学冬 - 不再见</string>
+		<key>time</key>
+		<string>244</string>
+		<key>index</key>
+		<string>C</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string>泡沫.lrc</string>
+		<key>singer</key>
+		<string>邓紫棋</string>
+		<key>name</key>
+		<string>邓紫棋 - 泡沫</string>
+		<key>time</key>
+		<string>258</string>
+		<key>index</key>
+		<string>D</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>迪克牛仔</string>
+		<key>name</key>
+		<string>迪克牛仔 - 爱有奇迹</string>
+		<key>time</key>
+		<string>267</string>
+		<key>index</key>
+		<string>D</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string>父亲.lrc</string>
+		<key>singer</key>
+		<string>筷子兄弟</string>
+		<key>name</key>
+		<string>筷子兄弟 - 父亲</string>
+		<key>time</key>
+		<string>301</string>
+		<key>index</key>
+		<string>K</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string>小苹果.lrc</string>
+		<key>singer</key>
+		<string>筷子兄弟</string>
+		<key>name</key>
+		<string>筷子兄弟 - 小苹果</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>K</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>李易峰</string>
+		<key>name</key>
+		<string>李易峰 - 剑伤</string>
+		<key>time</key>
+		<string>206</string>
+		<key>index</key>
+		<string>L</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>李宇春</string>
+		<key>name</key>
+		<string>李宇春 - 1987我不知会遇见你</string>
+		<key>time</key>
+		<string>317</string>
+		<key>index</key>
+		<string>L</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>朴树</string>
+		<key>name</key>
+		<string>朴树 - 平凡之路</string>
+		<key>time</key>
+		<string>301</string>
+		<key>index</key>
+		<string>P</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>齐晨</string>
+		<key>name</key>
+		<string>齐晨 - 咱们结婚吧</string>
+		<key>time</key>
+		<string>228</string>
+		<key>index</key>
+		<string>Q</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>王菲</string>
+		<key>name</key>
+		<string>王菲 - 匆匆那年</string>
+		<key>time</key>
+		<string>241</string>
+		<key>index</key>
+		<string>W</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>王蓉</string>
+		<key>name</key>
+		<string>王蓉 - 小鸡小鸡</string>
+		<key>time</key>
+		<string>212</string>
+		<key>index</key>
+		<string>W</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>张杰</string>
+		<key>name</key>
+		<string>张杰 - 剑心</string>
+		<key>time</key>
+		<string>252</string>
+		<key>index</key>
+		<string>Z</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>张靓颖</string>
+		<key>name</key>
+		<string>张靓颖 - 我们说好的</string>
+		<key>time</key>
+		<string>254</string>
+		<key>index</key>
+		<string>Z</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>TFBOYS</string>
+		<key>name</key>
+		<string>TFBOYS - 爱出发</string>
+		<key>time</key>
+		<string>225</string>
+		<key>index</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>TFBOYS</string>
+		<key>name</key>
+		<string>TFBOYS - 魔法城堡</string>
+		<key>time</key>
+		<string>257</string>
+		<key>index</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>TFBOYS</string>
+		<key>name</key>
+		<string>TFBOYS - 青春修炼手册</string>
+		<key>time</key>
+		<string>211</string>
+		<key>index</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>TFBOYS</string>
+		<key>name</key>
+		<string>TFBOYS - 信仰之名</string>
+		<key>time</key>
+		<string>226</string>
+		<key>index</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>TFBOYS</string>
+		<key>name</key>
+		<string>TFBOYS - 幸运符号</string>
+		<key>time</key>
+		<string>217</string>
+		<key>index</key>
+		<string>T</string>
+	</dict>
+	<dict>
+		<key>geci</key>
+		<string></string>
+		<key>singer</key>
+		<string>TFBOYS</string>
+		<key>name</key>
+		<string>TFBOYS - Heart</string>
+		<key>time</key>
+		<string>212</string>
+		<key>index</key>
+		<string>T</string>
+	</dict>
+</array>
+</plist>

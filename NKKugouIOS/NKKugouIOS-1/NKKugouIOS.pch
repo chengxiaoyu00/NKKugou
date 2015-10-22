@@ -1,0 +1,20 @@
+//
+//  NKKugouIOS.pch
+//  NKKugouIOS-1
+//
+//  Created by hegf on 15-1-9.
+//  Copyright (c) 2015年 hegf. All rights reserved.
+//
+
+#ifndef NKKugouIOS_1_NKKugouIOS_pch
+#define NKKugouIOS_1_NKKugouIOS_pch
+
+#import "UIView+NKMoreAttribute.h"
+#import "UIButton+NKImage.h"
+
+#define kScreenWidth  [UIScreen mainScreen].applicationFrame.size.width
+#define kScreenHeight  [UIScreen mainScreen].applicationFrame.size.height
+#define kWidthRatio 44.0/320.0
+#define kHeightRatio 44.0/568.0
+
+#endif
